@@ -22,7 +22,7 @@ export const dataFilms = async () => {
 
     } catch (error) {
         console.log(error);
-        return []
+        return [];
     }
 };
 
